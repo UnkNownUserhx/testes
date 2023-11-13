@@ -3,7 +3,7 @@
 /*Defione a fonde dos elementod de dentro do body*/
 body {
   font-family: 'Times new roman', monospace;
-  background: #3a0061;
+  background: rgba(61, 7, 97, 0.827)
   width: 100%;
   color: rgb(255, 255, 255);
 }
