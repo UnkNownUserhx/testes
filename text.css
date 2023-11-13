@@ -3,9 +3,9 @@
 /*Defione a fonde dos elementod de dentro do body*/
 body {
   font-family: 'Times new roman', monospace;
-  background: #000000;
+  background: #3a0061;
   width: 100%;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 /*estiliza tosos os títulos h1*/
